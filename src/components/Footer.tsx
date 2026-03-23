@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="p-8 bg-[#ffb2e1] text-stone-800 rounded-t-3xl mt-6">
       <div className="flex flex-col items-center gap-6">
         <img 
-          src="https://linkbioinsta.com/wp-content/uploads/2026/03/Logo_Doll-Palace-Beauty-SPA_Danbury-ct.jpeg" 
+          src="https://linkbioinsta.com/wp-content/uploads/2026/03/Logo_Doll-Palace_Beauty-Studio.jpeg" 
           alt="Logo Doll Palace Beauty SPA" 
           className="w-24 h-24 rounded-full border-2 border-white shadow-lg"
           referrerPolicy="no-referrer"
